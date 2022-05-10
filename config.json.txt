@@ -1,0 +1,5 @@
+
+
+            "ip":"Oursmpiscoolman.aternos.me",
+            "port": :22485"
+            'name". "lolman"
